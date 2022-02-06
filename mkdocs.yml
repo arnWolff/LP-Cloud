@@ -4,3 +4,4 @@ theme:
   name: material
 nav:
   - Accueil: index.md
+  - Outils DevOps: index.md
