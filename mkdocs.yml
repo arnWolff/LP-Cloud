@@ -4,4 +4,5 @@ theme:
   name: material
 nav:
   - Accueil: index.md
-  - Outils DevOps: index.md
+  - Outils DevOps: 
+    - Les outils DevOps: outils-devops/index.md
