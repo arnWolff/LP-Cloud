@@ -16,7 +16,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/docker/</loc>
+         <lastmod>2022-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/git/</loc>
+         <lastmod>2022-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/jenkins/</loc>
+         <lastmod>2022-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/kubernetes/</loc>
          <lastmod>2022-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
