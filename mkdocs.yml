@@ -2,8 +2,13 @@ site_name: LP-Cloud
 site_url: https://arnwolff.github.io/LP-Cloud/
 theme:
   name: material
+markdown_extensions:
+  - toc:
+      title: Table des matières
 nav:
   - Accueil: index.md
-  - Outils DevOps: 
-    - Les outils DevOps: outils-devops/outils-devops.md
-    - Git: outils-devops/git.md
+  - DevOps: 
+    - Le concept DevOps: devops.md
+    - Les outils DevOps: 
+      - Git: outils-devops/git.md
+      - Ansible: outils-devops/ansible.md

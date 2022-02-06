@@ -6,12 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/git/</loc>
+         <loc>https://arnwolff.github.io/LP-Cloud/devops/</loc>
          <lastmod>2022-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/outils-devops/</loc>
+         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/ansible/</loc>
+         <lastmod>2022-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/git/</loc>
          <lastmod>2022-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>

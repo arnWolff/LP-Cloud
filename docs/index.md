@@ -1,8 +1,9 @@
 # LP-Cloud
 
-Site de partage d'informations pour la réalisation d'un projet DevOps en Licence Pro Admin Cloud - DevOps (21-22) à l'UHA.
+<img src="Nuage33.png" alt="Cloud" width="200" style="float: right"/>
+Site de partage d'informations pour la réalisation d'un projet DevOps en **Licence Pro Admin Cloud - DevOps** promo 21-22 à l'UHA.
 
-Le projet mis en place consistera en la réalisation d'une application web ((à définir!)) qui sera mise en production sur un ou plusieurs Cloud providers (GCP, Aws, Azure, etc...).
+Le projet mis en place consistera en la réalisation d'une application web {{à définir!}} qui sera mise en production sur un ou plusieurs Cloud providers (GCP, Aws, Azure, etc...).
 
 ## Commands
 
