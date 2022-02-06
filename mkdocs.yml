@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: LP-Cloud
+site_url: https://arnwolff.github.io/LP-Cloud/
+theme:
+  name: material
