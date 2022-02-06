@@ -2,3 +2,5 @@ site_name: LP-Cloud
 site_url: https://arnwolff.github.io/LP-Cloud/
 theme:
   name: material
+nav:
+  - Accueil: index.md
