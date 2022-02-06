@@ -1,8 +1,6 @@
-# LP-Cloud
+# Outils DevOps
 
-Site de partage d'informations pour la réalisation d'un projet DevOps en Licence Pro Admin Cloud - DevOps (21-22) à l'UHA.
-
-Le projet mis en place consistera en la réalisation d'une application web ((à définir!)) qui sera mise en production sur un ou plusieurs Cloud providers (GCP, Aws, Azure, etc...).
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
