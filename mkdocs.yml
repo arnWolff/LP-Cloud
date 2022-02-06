@@ -2,13 +2,19 @@ site_name: LP-Cloud
 site_url: https://arnwolff.github.io/LP-Cloud/
 theme:
   name: material
+  language: fr
 markdown_extensions:
   - toc:
       title: Table des matières
+plugins:
+  - search
 nav:
   - Accueil: index.md
   - DevOps: 
     - Le concept DevOps: devops.md
     - Les outils DevOps: 
       - Git: outils-devops/git.md
+      - Docker: outils-devops/docker.md
       - Ansible: outils-devops/ansible.md
+      - Jenkins: outils-devops/jenkins.md
+      - Kubernetes: outils-devops/kubernetes.md
