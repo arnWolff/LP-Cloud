@@ -5,4 +5,5 @@ theme:
 nav:
   - Accueil: index.md
   - Outils DevOps: 
-    - Les outils DevOps: outils-devops/index.md
+    - Les outils DevOps: outils-devops/outils-devops.md
+    - Git: outils-devops/git.md
