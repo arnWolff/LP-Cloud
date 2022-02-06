@@ -8,7 +8,14 @@ Les générations de projets peuvent être amorcées par différents moyens, tel
 
 ##Interface
 
-<img src="Ansible-playbook-output-jenkins.png" alt="Jenkins interface" width="300"/>
+<a href="#Ansible-playbook-output-jenkins">
+  <img src="Ansible-playbook-output-jenkins.png" width="300">
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#" class="lightbox" id="Ansible-playbook-output-jenkins">
+  <span style="background-image: url('Ansible-playbook-output-jenkins.png')"></span>
+</a>
 
 ## La notion d'intégration continue
 

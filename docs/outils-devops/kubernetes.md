@@ -8,7 +8,14 @@ Kubernetes définit un jeu d'outils ("primitives") qui, ensemble, fournissent de
 
 ##Architecture
 
-<img src="Kubernetes.png" alt="Kubernetes" width="300"/>
+<a href="#Kubernetes">
+  <img src="Kubernetes.png" width="300">
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#" class="lightbox" id="Kubernetes">
+  <span style="background-image: url('Kubernetes.png')"></span>
+</a>
 
 ## Cadre projet web app
 

@@ -3,6 +3,10 @@ site_url: https://arnwolff.github.io/LP-Cloud/
 theme:
   name: material
   language: fr
+  favicon: logos/Cloud-Netwprking-23.svg
+  logo: logos/Cloud-Netwprking-23.svg
+extra_css:
+  - css/lightbox.css
 markdown_extensions:
   - toc:
       title: Table des matières

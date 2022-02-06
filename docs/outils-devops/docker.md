@@ -8,7 +8,14 @@ Techniquement, Docker étend le format de conteneur Linux standard, LXC, avec un
 
 La technologie de conteneur de Docker peut être utilisée pour étendre des systèmes distribués de façon à ce qu'ils s'exécutent de manière autonome depuis une seule machine physique ou une seule instance par nœud. Cela permet aux nœuds d'être déployés au fur et à mesure que les ressources sont disponibles, offrant un déploiement transparent et similaire aux PaaS pour des systèmes comme Apache Cassandra, Riak, ou d'autres systèmes distribués.
 
-## La notion de conteneur <img src="container-what-is-container.png" alt="Docker container" width="300"  style="float: right"/>
+## La notion de conteneur <a href="#container-what-is-container">
+  <img src="container-what-is-container.png" width="300" style="float: right">
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#" class="lightbox" id="container-what-is-container">
+  <span style="background-image: url('container-what-is-container.png')"></span>
+</a>
 
 L'objectif d'un conteneur est le même que pour un serveur dédié virtuel : héberger des services sur un même serveur physique tout en les isolant les uns des autres. Un conteneur est cependant moins figé qu'une machine virtuelle en matière de taille de disque et de ressources allouées.
 
