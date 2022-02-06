@@ -1,0 +1,1 @@
+start cmd /k "title mkdocs_deploy && cd .. && mkdocs gh-deploy"
