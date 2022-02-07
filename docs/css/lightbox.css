@@ -1,35 +1,62 @@
-.lightbox {
-  /* Default to hidden */
-  display: none;
-  
-  /* Overlay entire screen */
-  position: fixed;
-  z-index: 999;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  
-  /* A bit of padding around image */
-  padding: 1em;
-
-  /* Translucent background */
-  background: rgba(0, 0, 0, 0.8);
+@-webkit-keyframes fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
 
-/* Unhide the lightbox when it's the target */
-.lightbox:target {
-  display: block;
+@-webkit-keyframes grow {
+    from {
+        height: 0px;
+    }
+    to {
+        height: 300px;
+    }
 }
 
-.lightbox span {
-  /* Full width and height */
-  display: block;
-  width: 100%;
-  height: 100%;    
+.lbLink {
+    display: block
+}
 
-  /* Size and position background image */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+.lb {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    z-index: 999;
+    background: rgba(0, 0, 0, 0.5);
+    -webkit-animation-duration: 1s;
+    -webkit-animation-name: fade;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+}
+
+.lb a {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+	
+}
+
+.lb img {
+    padding: 5px 5px 45px 5px;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 0px 15px #444;
+    -moz-box-shadow: 0px 0px 15px #444;
+    -webkit-animation-duration: 0.50s;
+    -webkit-animation-name: grow;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-direction: normal;
+    -webkit-animation-timing-function: ease-in;
+	max-height: 90vh;
+}
+
+.lb:target {
+
+    display: table;
+    height: 100%
 }

@@ -1,14 +1,10 @@
 # LP-Cloud
 
+<a class="lbLink" href="#Nuage33"><img src="Nuage33.png" width="300"></a>
 
-<a href="#Nuage33">
-  <img src="Nuage33.png" width="200" style="float: right">
-</a>
-
-<!-- lightbox container hidden with CSS -->
-<a href="#" class="lightbox" id="Nuage33">
-  <span style="background-image: url('Nuage33.png')"></span>
-</a>
+<div class="lb" id="Nuage33">
+	<a href="#close"><img src="Nuage33.png" alt=""/></a>
+</div>
 
 Site de partage d'informations pour la réalisation d'un projet DevOps en **Licence Pro Admin Cloud - DevOps** promo 21-22 à l'UHA.
 

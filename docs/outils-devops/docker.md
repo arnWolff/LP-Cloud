@@ -8,15 +8,11 @@ Techniquement, Docker étend le format de conteneur Linux standard, LXC, avec un
 
 La technologie de conteneur de Docker peut être utilisée pour étendre des systèmes distribués de façon à ce qu'ils s'exécutent de manière autonome depuis une seule machine physique ou une seule instance par nœud. Cela permet aux nœuds d'être déployés au fur et à mesure que les ressources sont disponibles, offrant un déploiement transparent et similaire aux PaaS pour des systèmes comme Apache Cassandra, Riak, ou d'autres systèmes distribués.
 
-## La notion de conteneur <a href="#container-what-is-container">
-  <img src="container-what-is-container.png" width="300" style="float: right">
-</a>
+## La notion de conteneur <a class="lbLink" href="#container-what-is-container" style="float: right"><img src="container-what-is-container.png" width="300"></a>
 
-<!-- lightbox container hidden with CSS -->
-<a href="#" class="lightbox" id="container-what-is-container">
-  <span style="background-image: url('container-what-is-container.png')"></span>
-</a>
-
+<div class="lb" id="container-what-is-container">
+	<a href="#" onclick="window.history.back(-1)"><img src="container-what-is-container.png" alt=""/></a>
+</div>
 L'objectif d'un conteneur est le même que pour un serveur dédié virtuel : héberger des services sur un même serveur physique tout en les isolant les uns des autres. Un conteneur est cependant moins figé qu'une machine virtuelle en matière de taille de disque et de ressources allouées.
 
 Un conteneur permet d'isoler chaque service : le serveur web, la base de données, des applications pouvant être exécutées de façon indépendante dans leur conteneur dédié, contenant uniquement les dépendances nécessaires. Chaque conteneur peut être relié aux autres par des réseaux virtuels. Il est possible de monter des volumes de disque de la machine hôte dans un conteneur. Si aucun processus n'est démarré dans le conteneur, alors celui-ci s'arrête. On parle parfois de virtualisation d'OS : contrairement à la virtualisation qui émule par logiciel différentes machines sur une machine physique, la conteneurisation émule différents OS sur un seul OS.

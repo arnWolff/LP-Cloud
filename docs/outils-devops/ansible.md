@@ -4,25 +4,20 @@ Ansible est une plate-forme logicielle libre pour la configuration et la gestion
 
 ## Architecture
 
-<a href="#Ansible-Architechture-What-Is-Ansible-Edureka">
-  <img src="Ansible-Architechture-What-Is-Ansible-Edureka.png" width="400">
-</a>
 
-<!-- lightbox container hidden with CSS -->
-<a href="#" class="lightbox" id="Ansible-Architechture-What-Is-Ansible-Edureka">
-  <span style="background-image: url('Ansible-Architechture-What-Is-Ansible-Edureka.png')"></span>
-</a>
+<a class="lbLink" href="#Ansible-Architechture-What-Is-Ansible-Edureka"><img src="Ansible-Architechture-What-Is-Ansible-Edureka.png" width="400"></a>
+
+<div class="lb" id="Ansible-Architechture-What-Is-Ansible-Edureka">
+	<a href="#" onclick="window.history.back(-1)"><img src="Ansible-Architechture-What-Is-Ansible-Edureka.png" alt=""/></a>
+</div>
 
 ## Ansible Tower 
 
-<a href="#Ansible">
-  <img src="19782675.jpg" width="250" style="float: left">
-</a>
+<a class="lbLink" href="#Ansible" style="float: left"><img src="19782675.jpg" width="250"></a>
 
-<!-- lightbox container hidden with CSS -->
-<a href="#" class="lightbox" id="Ansible">
-  <span style="background-image: url('19782675.jpg')"></span>
-</a> Ansible Tower est une API, un service Web et une console Web conçue pour rendre Ansible plus facilement utilisable par les équipes informatiques. C'est une console centrale de gestion des tâches d'automatisation. Tower est un produit commercial pris en charge par Red Hat, Inc.
+<div class="lb" id="Ansible">
+	<a href="#" onclick="window.history.back(-1)"><img src="19782675.jpg" alt=""/></a>
+</div>Ansible Tower est une API, un service Web et une console Web conçue pour rendre Ansible plus facilement utilisable par les équipes informatiques. C'est une console centrale de gestion des tâches d'automatisation. Tower est un produit commercial pris en charge par Red Hat, Inc.
 Il en existe une version gratuite, servant de version bêta pour sa grande sœur Tower, qui s'appelle AWX. Cette version est aussi utilisable par les entreprises, mais n'est pas garantie.
 
 ## Cadre projet web app
