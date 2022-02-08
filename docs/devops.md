@@ -1,7 +1,7 @@
-# <a class="lbLink" href="#Devops-toolchain" style="float: left"><img src="../Devops-toolchain.svg" width="200"></a>
+# <a class="lbLink" href="#Devops-toolchain" style="float: left"><img src="../logos/Devops-toolchain.svg" width="200"></a>
 
 <div class="lb" id="Devops-toolchain">
-	<a href="#" onclick="window.history.back(-1)"><img src="../Devops-toolchain.svg" alt=""/></a>
+	<a href="#" onclick="window.history.back(-1)"><img src="../logos/Devops-toolchain.svg" alt=""/></a>
 </div>
 
 Le devops — ou DevOps (selon la graphie habituellement utilisée en langue anglaise) — est un mouvement en ingénierie informatique et une pratique technique visant à l'unification du développement logiciel (dev) et de l'administration des infrastructures informatiques (ops), notamment l'administration système.

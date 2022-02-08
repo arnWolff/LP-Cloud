@@ -26,18 +26,18 @@ L'intégration continue repose souvent sur la mise en place d'une brique logicie
 
 Pour appliquer cette technique, il faut d'abord que :
 
-* le code source soit partagé (en utilisant des logiciels de gestion de versions tels que CVS, Subversion, git, Mercurial, etc.) ;
-* les développeurs intègrent (commit) quotidiennement (au moins) leurs modifications ;
-* des tests d'intégration soient développés pour valider l'application (avec JUnit par exemple).
+* le code source soit partagé (en utilisant des logiciels de gestion de versions tels que CVS, Subversion, git, Mercurial, etc.) 
+* les développeurs intègrent (commit) quotidiennement (au moins) leurs modifications 
+* des tests d'intégration soient développés pour valider l'application (avec JUnit par exemple)
 
 Un outil d'intégration continue est ensuite nécessaire tel que Jenkins. D'autres outils, comme SonarQube ou Jacoco, peuvent être mis en place afin de superviser la qualité du code2.
 
 Les principaux avantages d'une telle technique de développement sont :
 
 * le test immédiat des modifications ;
-* la notification rapide en cas de code incompatible ou manquant ;
-* les problèmes d'intégration sont détectés et réparés de façon continue, évitant les problèmes de dernière minute ;
-* une version est toujours disponible pour un test, une démonstration ou une distribution.
+* la notification rapide en cas de code incompatible ou manquant 
+* les problèmes d'intégration sont détectés et réparés de façon continue, évitant les problèmes de dernière minute 
+* une version est toujours disponible pour un test, une démonstration ou une distribution
 
 ## Cadre projet web app
 

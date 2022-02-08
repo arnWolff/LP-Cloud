@@ -7,6 +7,8 @@ theme:
   logo: logos/Cloud-Netwprking-23.svg
 extra_css:
   - css/lightbox.css
+extra_javascript:
+  - javascripts/main.js
 markdown_extensions:
   - toc:
       title: Table des matières
@@ -22,3 +24,5 @@ nav:
       - Ansible: outils-devops/ansible.md
       - Jenkins: outils-devops/jenkins.md
       - Kubernetes: outils-devops/kubernetes.md
+      - Terraform: outils-devops/terraform.md
+    - XaaS: xaas.md
