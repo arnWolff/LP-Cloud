@@ -6,7 +6,7 @@ theme:
   favicon: logos/Cloud-Netwprking-23.svg
   logo: logos/Cloud-Netwprking-23.svg
 extra_css:
-  - css/lightbox.css
+  - css/main.css
 extra_javascript:
   - javascripts/main.js
 markdown_extensions:

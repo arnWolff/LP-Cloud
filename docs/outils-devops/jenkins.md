@@ -42,3 +42,6 @@ Les principaux avantages d'une telle technique de développement sont :
 ## Cadre projet web app
 
 {{à définir!}}
+
+<span id="top" class="topSpan"></span>
+<a href="#top" class="topAnchor">&#8687;</a>

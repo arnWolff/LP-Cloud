@@ -16,3 +16,6 @@ Le mouvement devops est né d'une part de la volonté de globaliser les méthode
 
 Dans le cadre du projet mis en place, nous nous concentrerons sur l'utilisation d'outils permettant l'intégration et le déploiement continu (CI/CD) de notre application.
 Nous nous efforcerons de simuler un cadre de travail de type **Scrumban**, méthode hybride entre Scrum et Kanban.
+
+<span id="top" class="topSpan"></span>
+<a href="#top" class="topAnchor">&#8687;</a>
