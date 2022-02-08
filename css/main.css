@@ -1,3 +1,17 @@
+html{scroll-behavior:smooth}
+
+.topAnchor {
+	font-size: 5em;
+	position: fixed;
+	bottom: .1em;
+	right: .1em;
+}
+
+.topSpan {
+	position: absolute;
+	top: 0;
+}
+
 @-webkit-keyframes fade {
     from {
         opacity: 0;
@@ -15,7 +29,6 @@
         height: 300px;
     }
 }
-html{scroll-behavior:smooth}
 
 .lbLink {
     display: block
