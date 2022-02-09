@@ -50,7 +50,7 @@ Le SaaS est donc la livraison conjointe de moyens, de services et de savoir-fair
 
 ## Data as a service
 
-Data as a service (DaaS), est une technique consistant à faire payer un abonnement pour l'accès à un dépôt de données via une interface fournie par le fournisseur. Comme tous les membres de la famille des "as a service" (AAS), DaaS est basée sur le concept où le produit - les données dans le cas présent - ,peut être fourni à l'utilisateur sur demande indépendamment de la distance séparent l'utilisateur du le fournisseur des données.
+Data as a service (DaaS), est une technique consistant à faire payer un abonnement pour l'accès à un dépôt de données via une interface fournie par le fournisseur. Comme tous les membres de la famille des "as a service" (AAS), DaaS est basée sur le concept où le produit - les données dans le cas présent,peut être fourni à l'utilisateur sur demande indépendamment de la distance séparent l'utilisateur du fournisseur des données.
 
 <span id="top" class="topSpan"></span>
 <a href="#top" class="topAnchor">&#8687;</a>

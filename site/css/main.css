@@ -1,10 +1,11 @@
 html{scroll-behavior:smooth}
 
 .topAnchor {
-	font-size: 5em;
+	font-size: 3em;
 	position: fixed;
-	bottom: .1em;
-	right: .1em;
+	bottom: 0;
+	right: .4em;
+	font-weight: bolder;
 }
 
 .topSpan {
@@ -42,7 +43,7 @@ html{scroll-behavior:smooth}
     left: 0;
     display: none;
     z-index: 999;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.85);
     -webkit-animation-duration: 1s;
     -webkit-animation-name: fade;
     -webkit-animation-iteration-count: 1;

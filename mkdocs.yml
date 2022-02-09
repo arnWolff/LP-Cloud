@@ -3,8 +3,8 @@ site_url: https://arnwolff.github.io/LP-Cloud/
 theme:
   name: material
   language: fr
-  favicon: logos/Cloud-Netwprking-23.svg
-  logo: logos/Cloud-Netwprking-23.svg
+  favicon: logos/Cloud-Networking-23.svg
+  logo: logos/Cloud-Networking-23.svg
 extra_css:
   - css/main.css
 extra_javascript:
@@ -18,11 +18,11 @@ nav:
   - Accueil: index.md
   - DevOps: 
     - Le concept DevOps: devops.md
+    - XaaS: xaas.md
     - Les outils DevOps: 
       - Git: outils-devops/git.md
       - Docker: outils-devops/docker.md
       - Ansible: outils-devops/ansible.md
       - Jenkins: outils-devops/jenkins.md
       - Kubernetes: outils-devops/kubernetes.md
-      - Terraform: outils-devops/terraform.md
-    - XaaS: xaas.md
+      - Terraform: outils-devops/terraform.md    

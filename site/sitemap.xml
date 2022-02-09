@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/devops/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/xaas/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/ansible/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/docker/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/git/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/jenkins/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/kubernetes/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://arnwolff.github.io/LP-Cloud/outils-devops/terraform/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
